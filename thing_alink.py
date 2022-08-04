@@ -7,6 +7,7 @@ import time
 import logging
 # test
 # vscode 测试
+# 修改文件夹后测试
 
 # config log
 __log_format = '%(asctime)s-%(process)d-%(thread)d - %(name)s:%(module)s:%(funcName)s - %(levelname)s - %(message)s'
