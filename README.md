@@ -79,3 +79,9 @@ xxx库->settings->collaborators->add people->friend_name->copy invite link->给f
 - [ ]
 
 脚注[^]+缩写*[]+警告!!!
+
+### 24个希腊字母
+
+$$\alpha \beta \gamma \delta \epsilon \zeta \eta \theta \iota \kappa \lambda \mu \nu \xi \omicron \pi \rho \sigma \tau \upsilon \phi \chi \psi \omega$$
+
+$$\Alpha \Beta \Gamma \Delta \Epsilon \Zeta \Eta \Theta \Iota \Kappa \Lambda \Mu \Nu \Xi \Omicron \Pi \Rho \Sigma \Tau \Upsilon \Phi \Chi \Psi \Omega$$
