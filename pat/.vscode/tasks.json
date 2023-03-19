@@ -1,0 +1,18 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build hello world",
+            "type": "shell",
+            "command": "g++",
+            "args": [
+                "-g","${file}",
+                "-o","${workspaceFolder}/bin/${fileBasenameNoExtension}.exe"                
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        }
+    ]
+}
