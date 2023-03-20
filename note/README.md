@@ -1,4 +1,4 @@
-# Paper
+# Object Detection In Aerial Images on DOTA
 
 |Model|Recommend|mAP|Note Link|Paper Link|
 |-----|-----|-----|-----|----|
