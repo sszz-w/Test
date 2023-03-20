@@ -2,12 +2,12 @@
     "version": "2.0.0",
     "tasks": [
         {
-            "type": "cppbuild",
+            "type": "shell",
             "label": "C/C++: g++.exe build active file",
             "command": "C:/cygwin64/bin/g++.exe",
             "args": [
-                "-g",
                 "-fdiagnostics-color=always",
+                "-g",
                 "${file}",
                 "-o",
                 "${workspaceFolder}/bin/${fileBasenameNoExtension}.exe"
