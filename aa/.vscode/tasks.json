@@ -10,28 +10,10 @@
           "-o",
           "${fileDirname}/${fileBasenameNoExtension}.exe",
         ],
-        "problemMatcher": {
-          "owner": "cpp",
-          "fileLocation": ["relative", "${workspaceRoot}"],
-          "pattern": {
-            "regexp": "^(.*):(\\d+):(\\d+):\\s+(warning|error):\\s+(.*)$",
-            "file": 1,
-            "line": 2,
-            "column": 3,
-            "severity": 4,
-            "message": 5
-          }
-        },
-        "group": {
-          "kind": "build",
-          "isDefault": true
-        }
-      },
-      {
-        "type": "shell",
-        "label": "run executable file",
-        "command": ".\\${fileDirname}/${fileBasenameNoExtension}.exe",
-        "dependsOn": "g++",
+        "problemMatcher": [
+          "$gcc"
+        ],
+        
         "group": {
           "kind": "build",
           "isDefault": true
