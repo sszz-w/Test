@@ -1,0 +1,13 @@
+{
+  "defaultViewMode": "source",
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "showFrontmatter": true,
+  "showInlineTitle": false,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "0e9a58eee1365e3b",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d929a2dff26eeea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "561c4f0b78b06110",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "动态规划.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "63e0fce7aaa10b82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "递归.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4aa5878883d67410",
+    "type": "split",
+    "children": [
+      {
+        "id": "1625ab99c8311b33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7875328f2accea91",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d70092f5fa3a7396",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "102b6d1de06f4499",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e9c5e7942469a1cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "54ae1743c7341f54",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aaff271bdaffa476",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "递归.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cff9a02e4c8b5a39",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "递归.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cc1df4e18f22ca65",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ed6c8ae93438a9fe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "递归.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "zk-prefixer:创建时间戳笔记": false
+    }
+  },
+  "active": "63e0fce7aaa10b82",
+  "lastOpenFiles": [
+    "动态规划.md",
+    "递归.md",
+    "字符串.md",
+    "数组.md",
+    "背包问题.md",
+    "CV流程参考.md",
+    "Linux.md",
+    "202304041600.md",
+    "202303301020.md",
+    "202303241000.md",
+    "YOLOv5.md",
+    "Obsidian.md",
+    "图片链接.md",
+    "Internal link.md",
+    "ebeds.md",
+    "202304041639.md",
+    "202304041618.md",
+    "202303281113.md",
+    "2023-03-28.md",
+    "主机.md",
+    "深度学习.md",
+    "2023-03-03.md",
+    "股票分析报告/2023-03-01.md",
+    "股票分析报告",
+    "未命名.canvas",
+    "使用方法.md",
+    "2023-02-28.md",
+    "未命名 1.canvas"
+  ]
+}
