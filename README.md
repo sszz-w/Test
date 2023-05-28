@@ -43,8 +43,7 @@
     ```bash
     git commit -m "commit_message" file_name_optional
     ```
-
-> 首次创建本地库上传到github，需要设置：
+    > 首次创建本地库上传到github，需要设置：
 
     ```bash
     git remote -v     # 查看远程仓库信息
