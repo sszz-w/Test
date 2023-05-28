@@ -12,7 +12,7 @@ int main()
         cout << word << " ";
     }
 
-    cout << "Hello World!" << endl;
+    cerr << "Hello World!" << endl;
 
     return 0;
 }

@@ -5,26 +5,24 @@
             "name": "(gdb) Launch",
             "type": "cppdbg",
             "request": "launch",
-						// program顾名思义就是编译后的可执行程序,该文件是为了调用他
-            "program":
-	             "${fileDirname}\\.vscode\\exe\\${fileBasenameNoExtension}.exe",
-            "args": [
-
-            ],
-
+            "program": "${workspaceFolder}/${fileBasenameNoExtension}.exe",
+            "args": [],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",
             "environment": [],
             "externalConsole": false,
+            "console": "integratedTerminal",
             "MIMode": "gdb",
             "miDebuggerPath": "D:/cygwin64/bin/gdb.exe",
+            "miDebuggerArgs": "-exec console -i mi --tty=/dev/pty",
+            "preLaunchTask": "build",
             "setupCommands": [
                 {
                     "description": "Enable pretty-printing for gdb",
                     "text": "-enable-pretty-printing",
                     "ignoreFailures": true
                 }
-            ],
+            ]
         }
     ]
 }

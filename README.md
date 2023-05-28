@@ -44,6 +44,15 @@
     git commit -m "commit_message" file_name_optional
     ```
 
+> 首次创建本地库上传到github，需要设置：
+
+    ```bash
+    git remote -v     # 查看远程仓库信息
+    git remote remove orign 仓库地址        # 首次没有，但是如果想更换远程仓库，可以使用
+    git remote add origin 仓库地址          # 重新添加远程仓库地址
+    git push -u origin master              # 提交到远程仓库的master主干
+    ```
+
 6. 将本地库推送到远程库Github：
 
     ```bash

@@ -1,18 +1,50 @@
-// c_cpp_properties.json
+// // c_cpp_properties.json
+// {
+//     "configurations": [
+//         {
+//             "name": "Win32",
+            
+//             "compilerPath": "D:/cygwin64/bin/gcc.exe",
+//             "includePath": [
+//                 "${workspaceFolder}"
+//             ],
+
+
+//             "cppStandard": "c++23",
+
+//             "intelliSenseMode": "${default}"
+//         }
+//     ],
+//     "version": 4
+// }
 {
     "configurations": [
         {
             "name": "Win32",
-            
-            "compilerPath": "D:/cygwin64/bin/gcc.exe",
+            "defines": [],
+            "compilerPath": "D:/cygwin64/bin/g++.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-gcc-x64",
+            "browse": {
+                "path": [
+                    "${workspaceFolder}"
+                ],
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": ""
+            },
             "includePath": [
-                "${workspaceFolder}"
+                "${workspaceFolder}/**",
+                "D:/cygwin64/usr/include/**"
             ],
-
-
-            "cppStandard": "c++23",
-
-            "intelliSenseMode": "${default}"
+            // "browse.path": [
+            //     "${workspaceFolder}/**",
+            //     "D:/cygwin64/usr/include/**"
+            // ],
+            "compilerArgs": [
+                "-Wall",
+                "-g"
+            ]
         }
     ],
     "version": 4
